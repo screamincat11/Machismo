@@ -10,6 +10,7 @@
 
 @implementation PlayingCard
 
+// This method only works for 1 or 2 cards in the otherCards NSArray
 - (int)match:(NSArray *)otherCards
 {
     int score = 0;
