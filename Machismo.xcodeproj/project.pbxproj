@@ -26,6 +26,8 @@
 		EADD6D7716B77AE700B2DA23 /* Card.m in Sources */ = {isa = PBXBuildFile; fileRef = EADD6D7616B77AE700B2DA23 /* Card.m */; };
 		EADD6D7B16B77B4100B2DA23 /* Deck.m in Sources */ = {isa = PBXBuildFile; fileRef = EADD6D7A16B77B4100B2DA23 /* Deck.m */; };
 		EADD6D7F16B7886300B2DA23 /* PlayingCard.m in Sources */ = {isa = PBXBuildFile; fileRef = EADD6D7E16B7886300B2DA23 /* PlayingCard.m */; };
+		EAFC122A16BE9286006D748A /* Machismo_Icon_Retina.png in Resources */ = {isa = PBXBuildFile; fileRef = EAFC122916BE9286006D748A /* Machismo_Icon_Retina.png */; };
+		EAFC122D16BE929D006D748A /* Machismo_Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = EAFC122C16BE929D006D748A /* Machismo_Icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +60,8 @@
 		EADD6D7A16B77B4100B2DA23 /* Deck.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Deck.m; path = Model/Deck.m; sourceTree = "<group>"; };
 		EADD6D7D16B7886300B2DA23 /* PlayingCard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PlayingCard.h; path = Model/PlayingCard.h; sourceTree = "<group>"; };
 		EADD6D7E16B7886300B2DA23 /* PlayingCard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PlayingCard.m; path = Model/PlayingCard.m; sourceTree = "<group>"; };
+		EAFC122916BE9286006D748A /* Machismo_Icon_Retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Machismo_Icon_Retina.png; sourceTree = SOURCE_ROOT; };
+		EAFC122C16BE929D006D748A /* Machismo_Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Machismo_Icon.png; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +120,8 @@
 		EA7ECF6716B70F2F008B7B3B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				EAFC122C16BE929D006D748A /* Machismo_Icon.png */,
+				EAFC122916BE9286006D748A /* Machismo_Icon_Retina.png */,
 				EA6B37A516B9F9BD004D086F /* cardback.jpg */,
 				EA1B8C6216BE19A600CCC671 /* MyIcon.png */,
 				EA1B8C6016BE199600CCC671 /* MyIcon Retina.png */,
@@ -209,6 +215,8 @@
 				EA6B37A616B9F9BD004D086F /* cardback.jpg in Resources */,
 				EA1B8C6116BE199600CCC671 /* MyIcon Retina.png in Resources */,
 				EA1B8C6316BE19A600CCC671 /* MyIcon.png in Resources */,
+				EAFC122A16BE9286006D748A /* Machismo_Icon_Retina.png in Resources */,
+				EAFC122D16BE929D006D748A /* Machismo_Icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

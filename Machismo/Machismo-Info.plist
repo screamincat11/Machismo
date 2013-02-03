@@ -14,8 +14,8 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>MyIcon Retina.png</string>
-				<string>MyIcon.png</string>
+				<string>Machismo_Icon_Retina.png</string>
+				<string>Machismo_Icon.png</string>
 			</array>
 		</dict>
 	</dict>
