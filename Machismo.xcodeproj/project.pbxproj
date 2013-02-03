@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EA1B8C6116BE199600CCC671 /* MyIcon Retina.png in Resources */ = {isa = PBXBuildFile; fileRef = EA1B8C6016BE199600CCC671 /* MyIcon Retina.png */; };
+		EA1B8C6316BE19A600CCC671 /* MyIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = EA1B8C6216BE19A600CCC671 /* MyIcon.png */; };
 		EA5709DD16B8201700F89597 /* PlayingCardDeck.m in Sources */ = {isa = PBXBuildFile; fileRef = EA5709DC16B8201700F89597 /* PlayingCardDeck.m */; };
 		EA6B37A316B988A5004D086F /* CardMatchingGame.m in Sources */ = {isa = PBXBuildFile; fileRef = EA6B37A216B988A5004D086F /* CardMatchingGame.m */; };
 		EA6B37A616B9F9BD004D086F /* cardback.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EA6B37A516B9F9BD004D086F /* cardback.jpg */; };
@@ -27,6 +29,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EA1B8C6016BE199600CCC671 /* MyIcon Retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "MyIcon Retina.png"; path = "../MyIcon Retina.png"; sourceTree = "<group>"; };
+		EA1B8C6216BE19A600CCC671 /* MyIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MyIcon.png; path = ../MyIcon.png; sourceTree = "<group>"; };
 		EA5709DB16B8201700F89597 /* PlayingCardDeck.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PlayingCardDeck.h; path = Model/PlayingCardDeck.h; sourceTree = "<group>"; };
 		EA5709DC16B8201700F89597 /* PlayingCardDeck.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PlayingCardDeck.m; path = Model/PlayingCardDeck.m; sourceTree = "<group>"; };
 		EA6B37A116B988A5004D086F /* CardMatchingGame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CardMatchingGame.h; path = Model/CardMatchingGame.h; sourceTree = "<group>"; };
@@ -113,6 +117,8 @@
 			isa = PBXGroup;
 			children = (
 				EA6B37A516B9F9BD004D086F /* cardback.jpg */,
+				EA1B8C6216BE19A600CCC671 /* MyIcon.png */,
+				EA1B8C6016BE199600CCC671 /* MyIcon Retina.png */,
 				EA7ECF6F16B70F2F008B7B3B /* CardGameAppDelegate.h */,
 				EA7ECF7016B70F2F008B7B3B /* CardGameAppDelegate.m */,
 				EA7ECF6816B70F2F008B7B3B /* Machismo-Info.plist */,
@@ -201,6 +207,8 @@
 				EA7ECF7716B70F30008B7B3B /* Default-568h@2x.png in Resources */,
 				EA7ECF7A16B70F30008B7B3B /* MainStoryboard.storyboard in Resources */,
 				EA6B37A616B9F9BD004D086F /* cardback.jpg in Resources */,
+				EA1B8C6116BE199600CCC671 /* MyIcon Retina.png in Resources */,
+				EA1B8C6316BE19A600CCC671 /* MyIcon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
